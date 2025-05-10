@@ -29,8 +29,13 @@ This Python project scrapes data from an archived Wikipedia page listing the wor
 ## 🗂️ Project Structure
 
 ├── webscraping_banks.py          # Main script
+
 ├── exchange_rate.csv             # Currency rates
+
 ├── code_log.txt                  # Log of script progress
+
 ├── Largest_banks_data.csv        # Final output data (CSV)
+
 ├── Banks.db                      # SQLite database output
+
 └── README.md                     # You’re reading it!
